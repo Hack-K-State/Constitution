@@ -78,6 +78,9 @@
 
 ## August 2017
 
+### K-State Computer Science Department
+The Kansas State University department of Computer Science has a final say in matters that deal with Hack K-State.
+
 ### Kansas Board of Regents
 
 “The established policy of the Board of Regents prohibits discrimination on the basis of age, race, color, religion, sex, marital status, national origin, physical handicap or disability, status as a Vietnam Era Veteran, sexual orientation or other factors which cannot be lawfully considered, within the state universities.  All fraternal and campus related organizations shall follow this policy in the selection of their members, except the prohibition against sex discrimination shall not apply to social fraternities or sororities which are excluded from the application of Title IX of the Education Amendments of 1972 (20 U.S.C. Sec. 1681 et seq.).
