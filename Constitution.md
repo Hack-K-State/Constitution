@@ -22,9 +22,9 @@
 4. An organizer is a leader that works with the officers to put on the annual hackathon. Organizers are selected by a simple majority vote of officers.
 
 ## Article IV - Officers
-1. The officers of Hack K-State will be: President, Vice President, and Treasurer.
+1. The officers of Hack K-State will be: President, Vice President, Treasurer, and Media Relations.
 
-2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer will be an organizer.
+2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer and Media Relations Officer will be an organizer.
 
 3. During elections, new officers will be voted for by current organizers and current competing members of Hack K-State.
 
@@ -38,6 +38,8 @@
 2. The Vice President shall preside at meetings in the absence of the President, assist the President in the management of Hack K-State, and perform other duties that may be assigned by the President.
 
 3. The Treasurer shall maintain any and all financial records that may be needed by Hack K-State, be the main point of contact with the department accountant, and perform other duties that may be assigned by the President.
+
+4. The Media Relations Officer shall maintain any and all social media accounts, websites, advertisements, and perform other duties that may be assigned by the President.
 
 ## Article VI - Hack K-State Advisor
 1. The Advisor of Hack K-State shall be a faculty member or full-time staff member of Kansas State University and is selected by Hack K-State Officers.
