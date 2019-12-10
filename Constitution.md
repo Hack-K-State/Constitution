@@ -22,9 +22,9 @@
 4. An organizer is a leader that works with the officers to put on the annual hackathon. Organizers are selected by a simple majority vote of officers.
 
 ## Article IV - Officers
-1. The officers of Hack K-State will be: President, Vice President, Treasurer, and Media Relations.
+1. The officers of Hack K-State will be: President, Vice President, Treasurer, Head of Marketing and Advertising, Head of Technology, Head of Food, and Head of Sponsorship.
 
-2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer and Media Relations Officer will be an organizer.
+2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer and Head of Marketing and Advertsing, Head of Technology, Head of Food, and Head of Sponsorship Officer will be an organizer.
 
 3. During elections, new officers will be voted for by current organizers and current competing members of Hack K-State.
 
@@ -39,7 +39,13 @@
 
 3. The Treasurer shall maintain any and all financial records that may be needed by Hack K-State, be the main point of contact with the department accountant, and perform other duties that may be assigned by the President.
 
-4. The Media Relations Officer shall maintain any and all social media accounts, websites, advertisements, and perform other duties that may be assigned by the President.
+4. The Head of Marketing and Advertising shall maintain any and all social media accounts, advertisements, and perform other duties that may be assigned by the President.
+
+5. The Head of Technology shall maintain the website, registration system, and check-in system, and perform other duties that may be assigned by the President.
+
+6. The Head of Food shall develop the food plan in accordance with the campus sanitarian, be in charge of the food menu and snacks throughout the event, and perform other duties that may be assigned by the President.
+
+7. The Head of Sponsorship shall maintain relations with sponsors and organizations, maintain the prospectus, head sponsorship/fundraising efforts, and perform other duties that may be assigned by the President.
 
 ## Article VI - Hack K-State Advisor
 1. The Advisor of Hack K-State shall be a faculty member or full-time staff member of Kansas State University and is selected by Hack K-State Officers.
