@@ -36,7 +36,7 @@
 
 7. In the circumstance that an officer position is vacant, the remaining Officers share the duties of the vacant position until it is filled.
 
-8. If an officer position is vacant, a vote can be held at any time to fille the position and the candidate will assume officer if they receive a plurality of votes cast.
+8. If an officer position is vacant, a vote can be held at any time to fill the position and the candidate will assume officer if they receive a plurality of votes cast.
 
 ## Article V - Duties of Officers
 1. The President is the principal officer and is responsible for leading Hack K-State and managing its activities in accordance with the policies and procedures of Kansas State University, the College of Engineering, and these bylaws. The president shall preside at all meetings of the chapter.
