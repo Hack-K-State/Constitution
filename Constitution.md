@@ -24,7 +24,7 @@
 ## Article IV - Officers
 1. The officers of Hack K-State will be: President, Vice President, Treasurer, Head of Marketing and Advertising, Head of Technology, Head of Food, and Head of Sponsorship.
 
-2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer and Head of Marketing and Advertsing, Head of Technology, Head of Food, and Head of Sponsorship Officer will be an organizer.
+2. The President and Vice President are lead organizers of the Hack K-State event. The Treasurer and Head of Marketing and Advertsing, Head of Technology, Head of Food, and Head of Sponsorship Officer will be organizers.
 
 3. During elections, new officers will be voted for by current organizers and current competing members of Hack K-State.
 
